@@ -2,9 +2,9 @@ package a2;
 
 public class Persona {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
+	String dni;
+	String nombre;
+	String apellidos;
+	int edad;
 
 }
